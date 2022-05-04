@@ -3,3 +3,4 @@ Welcome to git-workflows
 - Centralised
 - Feature Merge
 - Squash then Feature Merge
+- Rebase then Feature Merge
