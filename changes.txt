@@ -1,3 +1,4 @@
 Welcome to git-workflows
 
+- Centralised
 - Feature Merge
